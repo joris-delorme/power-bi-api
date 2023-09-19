@@ -1,4 +1,4 @@
 Flask==2.2.2
 requests==2.31.0
-datetime==8.1.7
+datetime==8.1
 textblob==0.17.1
